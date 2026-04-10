@@ -40,3 +40,18 @@ social_links = [
 [extra.github]
 username = "M0dEx"
 repo = "blog"
+
+[extra.giscus]
+repo = "M0dEx/blog"
+repo_id = "R_kgDOR-dDqg"
+category = "Posts"
+category_id = "DIC_kwDOR-dDqs4C6iqE"
+mapping = "og:title"
+strict = 0
+reactions_enabled = 1
+emit_metadata = 0
+input_position = "top"
+theme = "dark"
+lang = "en"
+loading = "lazy"
+crossorigin = "anonymous"
